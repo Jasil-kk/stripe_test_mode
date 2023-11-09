@@ -1,6 +1,6 @@
 # Stripe Test Mode
 
-[Image of Stripe logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/512px-Stripe_Logo%2C_revised_2016.svg.png)
+![Stripe logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/512px-Stripe_Logo%2C_revised_2016.svg.png)
 
 This repository contains code for testing the Stripe payment gateway in test mode. Test mode allows you to simulate payments without actually processing any real money. This is useful for developing and testing your Stripe integration.
 
